@@ -12,7 +12,6 @@ return {
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.yaml" },
   { import = "astrocommunity.pack.python" },
-  { import = "astrocommunity.pack.react" },
   { import = "astrocommunity.pack.angular" },
 
   -- import/override with your plugins folder
